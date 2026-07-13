@@ -3,7 +3,6 @@
 ![FiveM](https://img.shields.io/badge/FiveM-Development-blue)
 ![Lua](https://img.shields.io/badge/Lua-Scripting-purple)
 ![ESX](https://img.shields.io/badge/ESX-Compatible-green)
-![QB-Core](https://img.shields.io/badge/QB-Core-Compatible-orange)
 
 ## About
 
@@ -19,7 +18,6 @@ Our goal is to provide optimized, configurable and easy-to-use scripts with prof
 
 - Optimized FiveM resources
 - ESX compatibility
-- QB-Core compatibility
 - OX Library integration
 - OX Inventory support
 - Custom UI systems
@@ -31,7 +29,6 @@ Our goal is to provide optimized, configurable and easy-to-use scripts with prof
 ## Supported Frameworks
 
 - ESX Legacy
-- QB-Core
 - Standalone
 
 ---
@@ -69,11 +66,10 @@ Common dependencies:
 For support, updates and purchases:
 
 Discord:
-https://discord.gg/YOUR-DISCORD
+https://discord.gg/XPsYdnVyy5
 
 Tebex:
-YOUR-STORE-LINK
-
+https://parquo-developpement-store.tebex.io
 ---
 
 ## Developer
